@@ -1,18 +1,4 @@
-[11:25 am, 17/01/2026] Kanchan Nikam: <h1 align="center">Hi 👋, I'm Kanchan nikam</h1>
-<h3 align="center">A passionate data science from India</h3>
-
-- 🔭 I’m currently working on *Data science projects*
-
-- 🌱 I’m currently learning *Data cleaning,create visualisation*
-
-- 💬 Ask me about *Visualisation,all about related data*
-
-- 📫 How to reach me *kanchannikam794@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanchan-nikam-76a69b2b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanchan-nikam-76a69b2b6?ut…
-[11:31 am, 17/01/2026] Kanchan Nikam: <h1 align="center">Hi 👋, I'm Kanchan nikam</h1>
+<h1 align="center">Hi 👋, I'm Kanchan nikam</h1>
 <h3 align="center">A passionate data science & Analytics from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchan120&label=Profile%20views&color=0e75b6&style=flat" alt="kanchan120" /> </p>
@@ -29,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JVqlrmeCFUxKtKNHa64AluWfISMlZ91f/view?usp=drivesdk](https://drive.google.com/file/d/1JVqlrmeCFUxKtKNHa64AluWfISMlZ91f/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanchan-nikam-76a69b2b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanchan-nikam-76a69b2b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" height="30" width="40" /></a>
 </p>
