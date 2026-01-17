@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JVqlrmeCFUxKtKNHa64AluWfISMlZ91f/view?usp=drivesdk](https://drive.google.com/file/d/1JVqlrmeCFUxKtKNHa64AluWfISMlZ91f/view?usp=drivesdk)
 
-<h1 align="left">Connect with me:</h1>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanchan-nikam-76a69b2b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanchan-nikam-76a69b2b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" height="30" width="40" /></a>
 </p>
