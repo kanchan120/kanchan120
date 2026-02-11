@@ -24,7 +24,8 @@
 🚀 Actively seeking:
 - Data Analyst Internship  
 - Data Science Internship  
-
+- Entry-Level Roles in Data Analyst & Data Science
+  
 📍 Location: India  
 🌍 Open to Remote & Onsite Opportunities  
 
