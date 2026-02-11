@@ -32,28 +32,34 @@
 ---
 
 ## 🚀 Featured Project
+## 🛒 Supermart Grocery Sales Analysis
+✔ Performed Exploratory Data Analysis (EDA)  
+✔ Cleaned & Preprocessed Sales Dataset  
+✔ Analyzed Sales, Profit & Regional Trends  
+✔ Identified Top Performing Categories  
+✔ Generated Business Insights using Visualization  
 
-### 🛒 Supermart Grocery Sales Analysis
-Performed Exploratory Data Analysis (EDA) on grocery sales dataset to identify sales trends, profit patterns and regional performance.
-
-🔹 Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn  
-🔹 Techniques: Data Cleaning, Data Visualization  
+🔹 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn  
 🔗 https://github.com/kanchan120/Supermart-Grocery-Sales-Analysis
 
+## 📱 Google Play Store Data Analysis
+✔ Performed Exploratory Data Analysis (EDA)  
+✔ Cleaned & Processed App Dataset  
+✔ Analyzed Ratings, Installs & Categories  
+✔ Performed Sentiment Analysis on User Reviews  
+✔ Identified Factors Affecting App Success  
 
-### 📱 Google Play Store Data Analysis
-Performed EDA and Sentiment Analysis to analyze app ratings, installs and user reviews from Google Play Store dataset.
-
-🔹 Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn  
-🔹 Techniques: Data Cleaning, Visualization, NLP  
+🔹 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn  
 🔗 https://github.com/kanchan120/Google-Play-Store-Data-Analysis
 
+## 💻 Laptop Price Analysis & Prediction
+✔ Performed Exploratory Data Analysis (EDA)  
+✔ Applied Machine Learning Models  
+✔ Implemented Random Forest Regressor  
+✔ Achieved **R² Score: 0.82**  
+✔ Built End-to-End ML Pipeline  
 
-### 💻 Laptop Price Analysis & Prediction
-Built a Machine Learning model using Random Forest Regression to predict laptop prices based on specifications.
-
-🔹 Tools Used: Python, Pandas, NumPy, Scikit-learn  
-🔹 Techniques: Feature Engineering, Regression Modeling  
+🔹 Tools: Python, Pandas, NumPy, Scikit-learn  
 🔗 https://github.com/kanchan120/Laptop-Price-Analysis
 
 ---
