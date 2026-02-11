@@ -32,14 +32,24 @@
 
 ## 🚀 Featured Project
 
-### 💻 Laptop Price Analysis & Prediction
-✔ Performed Exploratory Data Analysis (EDA)  
-✔ Applied Machine Learning Models  
-✔ Implemented Random Forest Regressor  
-✔ Achieved **R² Score: 0.82**  
-✔ End-to-End ML Pipeline  
+### 🛒 Supermart Grocery Sales Analysis
+Exploratory Data Analysis (EDA) on Supermart Grocery Sales dataset to identify sales trends, profit patterns, customer segments and regional performance.
+🔹 Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn
+🔗 https://github.com/kanchan120/Supermart-Grocery-Sales-Analysis
 
-🔗 Repository: https://github.com/kanchan120/Laptop-Price-Analysis  
+---
+
+### 💻 Laptop Price Analysis & Prediction
+Machine Learning model to predict laptop prices using Random Forest Regression.
+🔹 Tools Used: Python, Scikit-learn, Pandas, NumPy
+🔗 https://github.com/kanchan120/Laptop-Price-Analysis
+
+---
+
+### 📱 Google Play Store Data Analysis
+EDA & Sentiment Analysis on Play Store dataset to understand ratings and user reviews.
+🔹 Tools Used: Python, NLP, Matplotlib
+🔗 https://github.com/kanchan120/Google-Play-Store-Data-Analysis
 
 ---
 
