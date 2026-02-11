@@ -24,7 +24,6 @@
 🚀 Actively seeking:
 - Data Analyst Internship  
 - Data Science Internship  
-- Entry-Level Machine Learning Roles  
 
 📍 Location: India  
 🌍 Open to Remote & Onsite Opportunities  
@@ -66,13 +65,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanchan120&show_icons=true&theme=radical" />
-</p>
+![Kanchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanchan120&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan120&layout=compact&theme=radical" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan120&layout=compact&theme=tokyonight)
 
 ---
 
